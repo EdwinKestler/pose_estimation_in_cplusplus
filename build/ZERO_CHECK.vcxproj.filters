@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\pose_estimation_in_cplusplus\build\CMakeFiles\06705c1fef7c82a0067d9a664cd701e6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4C084297-5DBF-37EB-BA4D-C4BEAE31F5A8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
