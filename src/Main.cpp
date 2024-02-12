@@ -6,7 +6,7 @@ using namespace cv;
 
 int main()
 {
-    const std::string rstp_url = "rtsp://admin:FBX!admin2023@192.168.1.108:554";
+    const std::string rstp_url = "rtsp://admin:FBx!admin2023@192.168.1.108:554";
 
     Mat frame;
     VideoCapture cap(rstp_url, cv::CAP_FFMPEG);
