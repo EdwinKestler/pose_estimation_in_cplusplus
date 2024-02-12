@@ -4,6 +4,9 @@
     <ClCompile Include="E:\pose_estimation_in_cplusplus\src\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="E:\pose_estimation_in_cplusplus\src\rstpStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="E:\pose_estimation_in_cplusplus\CMakeLists.txt" />

@@ -314,6 +314,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="E:\pose_estimation_in_cplusplus\src\Main.cpp" />
+    <ClCompile Include="E:\pose_estimation_in_cplusplus\src\rstpStream.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="E:\pose_estimation_in_cplusplus\build\ZERO_CHECK.vcxproj">
